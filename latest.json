@@ -1,7 +1,7 @@
 {
-  "version": "20261002-43",
+  "version": "20261002-44",
   "zipUrl": "https://gh-proxy.com/https://github.com/hulufeng/labcode-knowledge/releases/download/v20261002-43/knowledge.zip",
   "sha256": "3c00232777de49463db99dd1a61ad769977873d9b06cf3f70bcbca8e62e185f6",
-  "note": "基线包：43 条 ESP32 基础教学知识库（与软件内置一致）。后续可在编辑端（ima 等）更新内容后重新打包发布。",
+  "note": "模拟新版本 v44（内容同基线，用于验证一键更新链路）。",
   "updatedAt": "2026-10-02"
 }
